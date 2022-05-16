@@ -1,0 +1,1 @@
+const SUSHIGUARD_RETRY_OPTIONS: RetryOptions = { n: 3, minWait: 2000, maxWait: 5000 }
